@@ -1,0 +1,10 @@
+*~
+*.pyc
+*.pyo
+*.log
+
+.*
+!/.gitignore
+
+dist/
+*.egg-info/
