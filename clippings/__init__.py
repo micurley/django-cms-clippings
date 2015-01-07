@@ -10,3 +10,4 @@ admin (it does not support editing in place on a page). A Clipping can display
 content from one or more plugins
 
 """
+
